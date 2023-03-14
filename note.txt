@@ -1,0 +1,65 @@
+Font	: inconsolata-Regular
+		  ubuntu-Light
+		  PlayfairDisplay-Black
+		  PlayfairDisplay-Bold
+		  PlayfairDisplay-Italic
+		  PlayfairDisplay-Regular
+Color	:
+L.Brown	: #626262
+B.Brown	: #f0f0f0
+
+Menu	: lifestyle photodiary music travel
+		----PlayfairDisplay-Regular/14px/
+
+About/Messege: 
+		  photodiary
+		----ubuntu-Light/14px/
+
+		  The perfect weekend getaway
+		----PlayfairDisplay-Regular/30px/
+
+		  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+		----PlayfairDisplay-Regular/14px/
+
+		  Leave a comment
+		----ubuntu-Light/14px/
+
+
+Blog	: 
+		  Lifestyle
+
+		  More than just a music festival
+
+		  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+
+Newsletter :
+		  Sign up for our newsletter!
+		----PlayfairDisplay-Regular/30px/
+
+		  Enter a valid email address
+		----PlayfairDisplay-Regular/14px/
+
+Blog2	: 
+		  Lifestyle
+		  
+		  Top 10 song for running
+
+		  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+
+		  -------
+		  Lifestyle
+		  
+		  Cold winter days
+
+		  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+
+		  Load More Button
+		----PlayfairDisplay-Regular/20px/		  
+
+
+Footer	: Terms and Conditions
+		  Privacy Policy
+
+		  Follow
+
+		----PlayfairDisplay-Regular/16px/
